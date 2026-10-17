@@ -1,0 +1,5 @@
+homepage: "https://www.progality.com/consent"
+documentation: "https://www.progality.com/consent/install/google-tag-manager"
+versions:
+  - sha: REPLACE_WITH_FULL_COMMIT_SHA_OF_TEMPLATE_TPL
+    changeNotes: Initial release.

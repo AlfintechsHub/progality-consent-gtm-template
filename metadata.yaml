@@ -1,5 +1,7 @@
 homepage: "https://www.progality.com/consent"
 documentation: "https://www.progality.com/consent/install/google-tag-manager"
 versions:
+  - sha: 29d2139a139dd98032e2e5331da3e0d9a581d8f8
+    changeNotes: Template name now says who publishes it (Progality Consent by Alfin Technology Solutions).
   - sha: a60542efbd85d79bfa0eea0c24b81b83cffe8309
     changeNotes: Initial release.
